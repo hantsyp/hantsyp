@@ -1,4 +1,4 @@
-- 👋 Hi, We are the Hampshire Youth Parliament (@hantsyp)
+- 👋 Hi, We are the Hampshire Youth Parliament
 - 📫 Follow us on Twitter and Instagram @hantsyp
 
 <!---
